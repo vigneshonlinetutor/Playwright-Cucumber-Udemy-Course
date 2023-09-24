@@ -13,6 +13,7 @@
     "@cucumber/cucumber": "^9.5.1",
     "@playwright/test": "^1.38.1",
     "@types/node": "^20.6.3",
+    "multiple-cucumber-html-reporter": "^3.5.0",
     "ts-node": "^10.9.1"
   }
 }

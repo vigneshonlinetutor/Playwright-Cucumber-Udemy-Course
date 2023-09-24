@@ -1,4 +1,4 @@
-Feature: Conduit Login Functionality
+Feature: Conduit Add Post Functionality
 
 Scenario: Login and Logout with valid credentials
 Given I am on the conduit login page
