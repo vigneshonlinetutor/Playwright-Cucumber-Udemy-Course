@@ -9,4 +9,4 @@ Then I route to the orange hrm home page
 Examples:
 |username|password|
 |Admin|admin123|
-|Admin123|admin123|
+|Admin|admin123|

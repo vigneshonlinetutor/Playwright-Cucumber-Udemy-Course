@@ -1,6 +1,6 @@
 {
     "default":{
-        "paths": ["src/test/features/orangeHrmLogin.feature"],
+        "paths": ["src/test/features/"],
         "formatOptions": {
             "snippetInterface": "async-await"
         },
