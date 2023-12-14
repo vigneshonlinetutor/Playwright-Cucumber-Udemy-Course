@@ -12,6 +12,7 @@
         "format": [
             "html:test-result/report/cucumber-report.html",
             "json:test-result/report/cucumber-report.json"
-        ]
+        ],
+        "parallel": 2
     }
 }
