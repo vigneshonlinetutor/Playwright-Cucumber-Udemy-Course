@@ -9,7 +9,9 @@
    "pretest": "npm run clean:reports",
    "posttest": "npm run generate:report",
    "execute:script": "cucumber-js test",
-   "test": "npm run execute:script || npm run posttest"
+   "test": "npm run execute:script || npm run posttest",
+   "execute:script:failed": "cucumber-js -p rerun @rerun.txt",
+   "test:failed": "npm run execute:script:failed || npm run generate:report"
   },
   "keywords": [],
   "author": "",
