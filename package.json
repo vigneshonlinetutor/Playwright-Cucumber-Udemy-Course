@@ -18,10 +18,10 @@
   "license": "ISC",
   "devDependencies": {
     "@cucumber/cucumber": "^9.5.1",
-    "@playwright/test": "^1.45.0",
+    "@playwright/test": "^1.46.0",
     "@types/node": "^20.6.3",
     "mkdirp": "^3.0.1",
-    "multiple-cucumber-html-reporter": "^3.5.0",
+    "multiple-cucumber-html-reporter": "^3.6.2",
     "rimraf": "^5.0.1",
     "ts-node": "^10.9.1"
   }
